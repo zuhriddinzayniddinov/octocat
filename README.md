@@ -1,2 +1,1 @@
-# octocat
-My personal repository
+:smile:
